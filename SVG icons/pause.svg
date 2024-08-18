@@ -1,0 +1,6 @@
+<svg width="40px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <circle cx="8" cy="8" r="7" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+    <!-- Adjusted the height of the pause lines to be a bit taller -->
+    <path fill="#000000" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6.5 6.5v3m3-3v3"/>
+  </svg>
+  
